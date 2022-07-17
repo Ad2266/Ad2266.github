@@ -1,5 +1,9 @@
 ## About Me :smiley_cat:
+
 ### :smirk: YYR
+
+
+---
 
 <details>
 
@@ -11,6 +15,8 @@
 
 </details>
 
+---
+
 <details>
 
  <summary>
@@ -20,6 +26,8 @@
  yyr0816@sjtu.edu.cn
 
 </details>
+
+---
 
 <details>
 
@@ -31,6 +39,8 @@
 
 </details>
 
+---
+
 <details>
 
  <summary>
@@ -40,5 +50,17 @@
  [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
  
  ~~几乎~~不更新
+
+</details>
+
+---
+
+<details>
+
+ <summary>
+  
+  :new: Latest News :point_down:</summary>
+
+ 放暑假中。
 
 </details>
