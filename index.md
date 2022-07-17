@@ -2,6 +2,7 @@
 
 ### :smirk: YYR
 
+Major in Computer Science and Technology currently.
 
 ---
 
@@ -64,3 +65,5 @@
  放暑假中。
 
 </details>
+
+---
