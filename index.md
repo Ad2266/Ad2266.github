@@ -1,14 +1,11 @@
 ## About Me :smiley_cat:
 ### :smirk: YYR
-Undergraduate in Shanghai Jiaotong University
-
-Email: yyr0816@sjtu.edu.cn
-
-Blog: [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
 
 <details>
 
- <summary>:blue_book: Education :point_down:</summary>
+ <summary>
+  
+  :blue_book: Education :point_down:</summary>
 
  Undergraduate in Shanghai Jiaotong University
 
@@ -16,7 +13,9 @@ Blog: [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
 
 <details>
 
- <summary>:email: Email :point_down:</summary>
+ <summary>
+  
+  :email: Email :point_down:</summary>
 
  yyr0816@sjtu.edu.cn
 
@@ -24,7 +23,9 @@ Blog: [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
 
 <details>
 
- <summary>社交网络 :point_down:</summary>
+ <summary>
+  
+  社交网络 :point_down:</summary>
 
  保护网名，人人有责。
 
@@ -32,8 +33,12 @@ Blog: [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
 
 <details>
 
- <summary>:black_nib: Blog :point_down:</summary>
+ <summary>
+  
+  :black_nib: Blog :point_down:</summary>
 
  [YYR's Blogs](https://ad2266.github.io/jekyll_demo/)
+ 
+ ~~几乎~~不更新
 
 </details>
